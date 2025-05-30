@@ -28,7 +28,7 @@ It involves **clustering**, **classification**, and **association rule mining** 
 ```bash
 pip install pandas scikit-learn mlxtend matplotlib
 ```
-2 Run the script:
+2. Run the script:
 ```bash
 python3 Data_Mining.py
 ```
