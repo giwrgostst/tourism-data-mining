@@ -7,7 +7,7 @@ It involves **clustering**, **classification**, and **association rule mining** 
 ## 📂 Contents
 
 - `Data_Mining.py` – Full data processing and mining pipeline
-- `Research.pdf` – Project documentation, visualizations, and result analysis
+- `Research.pdf` – Project documentation and result analysis
 
 ## 🔍 Techniques Used
 
